@@ -1,0 +1,1 @@
+# Carregador-Solar---GS---Edge-Computing
